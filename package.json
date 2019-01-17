@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "node-telegram-bot-api": "^0.30.0",
+    "puppeteer": "^1.11.0",
+    "telegraf-calendar-telegram": "^1.5.7",
+    "telegraf": "^3.25.5"
+  }
+}
